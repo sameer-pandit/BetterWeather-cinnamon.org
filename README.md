@@ -1,2 +1,2 @@
 # BetterWeather-cinnamon.org
-Better Cinnamon applet
+Better Weather Cinnamon applet
